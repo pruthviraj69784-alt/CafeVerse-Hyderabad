@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "113968016254",
+        "project_id": "brewhub-cafe-app",
+        "storage_bucket": "brewhub-cafe-app.firebasestorage.app"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:113968016254:android:7f55301570dd1bf02a612f",
+            "android_client_info": {
+                "package_name": "com.example.brewhub"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyB6s99uSkkVh6511F8dP15pY70r-NLBsFU"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
