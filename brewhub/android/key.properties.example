@@ -1,0 +1,5 @@
+# Copy this file to key.properties (do NOT commit real passwords)
+storePassword=CHANGE_ME
+keyPassword=CHANGE_ME
+keyAlias=key
+storeFile=keystore.jks
